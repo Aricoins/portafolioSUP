@@ -7,7 +7,6 @@ function Producciones( ){
     <div className="contenedorProyecto">
         <p className="nombreProyecto">Nido de Palabras | Producciones </p>
         <p className="cargo">Creador y desarrollador del proyecto</p>
-        <p className=" Productora de contenidos audiovisuales con foco en Literatura"></p>
         <p className="textoProduccion">  Productora de contenidos audiovisuales con foco en Literatura</p>
 
         </div> 
