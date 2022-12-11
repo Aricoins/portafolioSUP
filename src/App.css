@@ -1,0 +1,41 @@
+* {
+ margin: 0; 
+ padding: 0;
+ color:chartreuse;
+
+}
+
+html
+body {
+  width: 200px;
+  height: 200 px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+  background-color: rgb(232, 73, 73); 
+  box-shadow: 0 3px 13px 1px rgb(0 0 0/9%);
+  }
+
+h1 {
+  width: 800px;
+  align-content: center;
+ color: chartreuse ;
+  font-style: normal;
+  font-weight: 600px;
+  margin: 40 0;
+  align-content: unset;
+  text-align: justify;
+}
+
+.nombreProyecto{
+
+  font-weight: 800;
+}
+
+.App {
+
+min-height: 0cm;
+display: flex;
+flex-wrap: wrap;
+align-content: center;
+text-align: center;
+}

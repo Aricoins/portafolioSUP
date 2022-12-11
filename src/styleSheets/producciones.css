@@ -1,0 +1,35 @@
+. * {
+    margin: 0; 
+    padding: 0;
+    color:chartreuse;
+   }
+   
+   .textoProduccion {
+    color:rgb(206, 216, 224);
+    text-decoration: aliceblue;
+
+   }
+
+   html
+   body {
+     font-family: 'Courier New', Courier, monospace;
+     font-size: 18px;
+     font-size-adjust: calc(125);
+     background-color: red; 
+     box-shadow: 0 3px 13px 1px rgb(0 0 0/9%);
+   
+     }
+   
+   h1 {
+    color: chartreuse ;
+     font-style: normal;
+    font-weight: 600;
+    margin: 40 0;
+    align-content: center;
+   }
+   
+   .nombreProyecto{
+   
+     font-weight: 800;
+   }
+
