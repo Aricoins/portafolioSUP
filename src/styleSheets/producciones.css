@@ -1,35 +1,31 @@
-. * {
-    margin: 0; 
-    padding: 0;
-    color:chartreuse;
-   }
-   
-   .textoProduccion {
+.contenedorProyecto .imagenPort{
+  width: 50px;
+  height: 100px;
+  margin: 10px 10px 50px;
+  align-items: center;
+  background-color: rgb(2, 61, 61);
+  box-shadow: black 2px 1px ;
+  display: inline;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+
+} 
+
+ .textoProduccion {
     color:rgb(206, 216, 224);
     text-decoration: aliceblue;
 
    }
-
-   html
-   body {
-     font-family: 'Courier New', Courier, monospace;
-     font-size: 18px;
-     font-size-adjust: calc(125);
-     background-color: red; 
-     box-shadow: 0 3px 13px 1px rgb(0 0 0/9%);
    
-     }
-   
-   h1 {
-    color: chartreuse ;
-     font-style: normal;
-    font-weight: 600;
-    margin: 40 0;
-    align-content: center;
-   }
-   
-   .nombreProyecto{
+     
+.nombreProyecto{
    
      font-weight: 800;
    }
+  .imagenPort {
+
+   max-width: 200px;
+  }
+
 

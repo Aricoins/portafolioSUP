@@ -1,41 +1,50 @@
 * {
- margin: 0; 
- padding: 0;
- color:chartreuse;
+ margin: 3px; 
+ padding: 0px;
+ color:white;
+ text-align: left;
 
 }
 
 html
 body {
-  width: 200px;
-  height: 200 px;
-  font-family: 'Courier New', Courier, monospace;
   font-size: 18px;
-  background-color: rgb(232, 73, 73); 
+  background-image: url(./img/img1.jpg); 
+  background-size: cover;
   box-shadow: 0 3px 13px 1px rgb(0 0 0/9%);
   }
 
-h1 {
-  width: 800px;
+  h1 {
+    color: rgb(222, 243, 201) ;
+    font-style: normal;
+    font-weight: 600px;
+    font-size: 80px;
+    margin: 40s 0;
+    align-content: center;
+    text-align: center;
+    opacity: .7;
+    border-radius: black 50% ;
+    box-shadow: 1px 2px 0;
+
+   }
+
+ .contenedorPrincipal {
+  font-size: 20px;
+  text-align: center;
+  text-size-adjust: 30px;
   align-content: center;
- color: chartreuse ;
-  font-style: normal;
-  font-weight: 600px;
-  margin: 40 0;
-  align-content: unset;
-  text-align: justify;
+  display: inline;
+
 }
 
-.nombreProyecto{
+.subtitulo {
+      align-items: center;
+      text-align: center;
+      color: rgb(227, 223, 223);
+    }
 
-  font-weight: 800;
-}
+ .listaproyectos {
+      display: inline-table;
+         } 
+    
 
-.App {
-
-min-height: 0cm;
-display: flex;
-flex-wrap: wrap;
-align-content: center;
-text-align: center;
-}
